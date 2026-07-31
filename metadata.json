@@ -1,0 +1,8 @@
+{
+  "name": "ToolHub",
+  "description": "An elegant, all-in-one utility tools suite featuring fully functional productivity and file tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
